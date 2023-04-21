@@ -1,4 +1,4 @@
-[![MasterHead](https://www.oecd-nea.org/upload/docs/image/jpeg/2020-09/shutterstock_402724045.jpg)](https://github.com/StellarShounak)
+[![MasterHead](https://as1.ftcdn.net/v2/jpg/03/79/88/72/1000_F_379887242_4VYqK15erU7cVHdeUQNSxq4gZLDP0qRv.jpg)](https://github.com/StellarShounak)
 <h1 align="center">Hi there, I'm Shounak Chattopadhyay</h1>
 <h3 align="left">A frontend developer and a machine learning enthusiast!</h3>
 <img align="right" alt="Coding" width ="350" src = "https://media.tenor.com/iTtJ7nAqpIcAAAAC/stray-coding.gif">
