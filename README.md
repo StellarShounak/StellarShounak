@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width ="350" src = "https://media.tenor.com/iTtJ7nAqpIcAAAAC/stray-coding.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stellatshounak&label=Profile%20views&color=0e75b6&style=flat" alt="stellatshounak" /> </p>
 
-📫 How to reach me **shounakchattopadhyayindia@gmail.com**
+How to reach me **shounakchattopadhyayindia@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
